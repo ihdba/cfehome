@@ -1,0 +1,4 @@
+node_modules/
+2eshopvenv/
+.env
+assist.txt
